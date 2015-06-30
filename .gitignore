@@ -1,0 +1,42 @@
+# Play
+bin/
+logs/
+dist/
+project/project/
+project/target/
+target/
+tmp/
+.history
+
+# Intellij
+/.idea
+*.iml
+/out
+/.idea_modules
+
+# Eclipse
+/.classpath
+/.project
+/.settings
+.cache
+
+/RUNNING_PID
+
+projectFilesBackup
+
+# In&Win
+*.queue
+
+# Python (Sphinx)
+*.pyc
+
+# Web
+*.min.js
+*.css.map
+
+
+#MacOS
+.DS_Store
+
+.ensime
+.ensime_cache/
